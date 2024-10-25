@@ -5,10 +5,6 @@
 
 This Ecommerce website is built using React, providing a seamless shopping experience for users. It features proper user authentication, secure payment processing through Stripe, and utilizes Redux for efficient state management. Images are stored on Cloudinary for optimized performance, and product data is stored in MongoDB Atlas, ensuring scalability and reliability.
 
-## 🚀 Live Demo
-
-You can access the live demo of the website [here](https://your-ecommerce-website-demo-url.com).
-
 
 
 ## 🌟 Features
@@ -68,15 +64,11 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 - Nodemailer for sending email notifications
 - Pagination (e.g., mongoose-pagination) for handling large datasets
 
-## 📜 License
-
-[MIT License](LICENSE)
-
 ## 📞 Contact
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to us:
 
-- Email - rishavanand2k21@example.com
+- Email - amanniranjane03@gmail.com
 
 
 Happy shopping! 🛍️
@@ -246,10 +238,4 @@ CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
 _fill each filed with your info respectively_
 
-
-**Instagram** Click [Here](https://www.instagram.com/riahav_02_12) **@rishavanand**
-
-**LinkedIn** Click [Here](www.linkedin.com/in/rishav-anand-20479b244
-
-) **@rishavanand**
 
